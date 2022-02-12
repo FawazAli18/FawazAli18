@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @FawazAli18
 - 👀 I’m interested in IT
-- 🌱 I’m currently learning how tp program with java, and use linux
+- 🌱 I’m currently learning how to program with java, and use linux
 - 💞️ I’m looking to collaborate on nothing atm.
 - 📫 How to reach me through my discord Lemon Haze #1168
 
