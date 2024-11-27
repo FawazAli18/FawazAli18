@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Fawaz Ali
 - 👀 I’m a University student studying Data Science and Statistics
-- 🌱 I work on risk modeling, data analysis, and getting into building simulations.
-- 💞️ I’m looking to collaborate on anything involving market and credit risk modelling or simulations.
+- 🌱 I work on modeling, data analysis, and building simulations.
+- 💞️ I’m looking to collaborate on anything involving market and credit risk modeling or simulations.
 - 📫 How to reach me through my LinkedIn.
 
 <!---
